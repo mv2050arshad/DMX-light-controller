@@ -1,5 +1,10 @@
 Q Light Controller Plus 4
 =========================
+The best application for create animation and Dancing Light and control lights
+=========================
+
+# If you need to customize this application base on your requirments, please dont hesitate to contact me in my website
+http://machinevision2050.ir/
 
 ![QLC+ LOGO](resources/icons/png/qlcplus.png)
 
